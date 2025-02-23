@@ -1,13 +1,13 @@
 <h1 align="center">Hi there👋, I'm Abbos Abduqayumov</h1>
 <h3 align="center">A passionate .NET developer from Uzbekistan</h3>
 
-- 📝 I regularly write articles on [abbos.medium.com](abbos.medium.com)
+- 📝 I regularly write articles on [abbos.medium.com](https://abbos.medium.com)
 
-- 💬 Ask me about **anything related to these technologies - .NET, C#, SQL**
+- 💬 Ask me about **anything related to these technologies: .NET, C#, SQL**
 
 - 📫 How to reach me **abbosdev@yandex.com**
 
-- 📄 Know about my experiences [linkedin.com/in/abbosbeck](linkedin.com/in/abbosbeck)
+- 📄 Know about my experiences [linkedin.com/in/abbosbeck](https://linkedin.com/in/abbosbeck)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
