@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Abbos Abduqayumov</h1>
+<h1 align="center">Hi there👋, I'm Abbos</h1>
 <h3 align="center">A passionate .NET developer from Uzbekistan</h3>
 
 - 📝 I regularly write articles on [https://abbos.medium.com](https://abbos.medium.com)
